@@ -1,0 +1,39 @@
+{
+    "scores": [
+    {
+        "name": "Mohit",
+        "score": "80"
+    },
+    {
+      "name": "Chirag",
+      "score": "70"
+    },
+    {
+        "name": "Sahil ",
+        "score": "90"
+    },
+    {
+        "name": "Rohan ",
+        "score": "100"
+    },
+    {
+      "name": "Parv",
+      "score": "60"
+    },
+    {
+      "name": "Akshay",
+      "score": "70"
+    },
+    {
+      "name": "Abhishek",
+      "score": "70"
+    },
+    {
+      "name": "Amit",
+      "score": "75"
+    },
+    {
+      "name": "Nishant",
+      "score": "85"
+    }]
+  }
